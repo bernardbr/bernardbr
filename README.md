@@ -7,7 +7,6 @@
 ![My status](https://github-readme-stats.vercel.app/api?username=bernardbr&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22)
 
 - 🔭 I’m currently working on @Paybyrd
-- 🔭 I’m currently working on @Paybyrd
 - 🤔 I'm a lovesick programmer. A father, a son, a husband, a nerd, and a human trying to do the best I can.
 - 👯 A little about myself in tech career: I am a professional with over 15 years of experience, passionate about what I do. I love learning new things as well as sharing what I know!
 
