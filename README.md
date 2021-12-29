@@ -6,7 +6,7 @@
 
 ![My status](https://github-readme-stats.vercel.app/api?username=bernardbr&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22)
 
-- 🔭 I’m currently working on @Paybyrd
+- 🔭 I’m currently working at @Paybyrd
 - 🤔 I'm a lovesick programmer. A father, a son, a husband, a nerd, and a human trying to do the best I can.
 - 👯 A little about myself in tech career: I am a professional with over 15 years of experience, passionate about what I do. I love learning new things as well as sharing what I know!
 
@@ -15,10 +15,11 @@
 ### Languages
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![java](https://img.shields.io/badge/Java-B54321?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
+![delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ### Databases
@@ -33,7 +34,8 @@
  
 ### Frameworks & Tools
 
-![net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![spring-boot](https://img.shields.io/badge/springboot-6db33f?style=for-the-badge&logo=spring&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
