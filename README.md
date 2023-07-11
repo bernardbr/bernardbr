@@ -1,10 +1,14 @@
 # Bernardo Esbérard 
 <div align="right">
-
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/bernardbr)
+[![Wakatime](https://wakatime.com/badge/user/da4488dd-6b02-40e6-903a-c254a120e9ff.svg)](https://wakatime.com/@da4488dd-6b02-40e6-903a-c254a120e9ff)
+
 </div>
 
-![My status](https://github-readme-stats.vercel.app/api?username=bernardbr&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22)
+![My GitHub status](https://github-readme-stats.vercel.app/api?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
 
 - 🔭 I’m currently working at @Paybyrd
 - 🤔 I'm a lovesick programmer. A father, a son, a husband, a nerd, and a human trying to do the best I can.
