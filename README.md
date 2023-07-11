@@ -10,9 +10,27 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
 
-- 🔭 I’m currently working at @Paybyrd
-- 🤔 I'm a lovesick programmer. A father, a son, a husband, a nerd, and a human trying to do the best I can.
-- 👯 A little about myself in tech career: I am a professional with over 15 years of experience, passionate about what I do. I love learning new things as well as sharing what I know!
+👋 Hello! I am a software developer passionate about what I do. Additionally, I love sharing the knowledge I have gained over the years, I'm an avid gamer, and last but not least, I am passionate about my family. Let me tell you a little more about myself:
+
+🔭 Currently, I am excited to be part of the @Paybyrd team, where I contribute to developing innovative payment solutions.
+
+🌱 As a father, son, and husband, my family is central to my life. They are my daily motivation and my haven. Sharing moments with them is a true treasure.
+
+👯 In my technology career, I have accumulated over 17 years of experience in software development. Over these years, I have developed an unwavering passion for my work. Every day, I dive into new challenges, constantly seeking to expand my knowledge and skills.
+
+💡 Continuous learning is an essential part of my professional journey. I love exploring new technologies, keeping up with the latest trends, and learning from the developer community. But true satisfaction comes from sharing what I have learned. I firmly believe that sharing knowledge is a way to elevate the whole community and build a stronger ecosystem.
+
+⚡ Besides software development, I am a gaming enthusiast. From board games to video games, I enjoy having fun and challenging myself in different virtual worlds. Games teach me skills such as problem-solving, teamwork, and perseverance, and they help me relax and recharge.
+
+🌟 As a software developer, father, nerd, and human being, I am constantly striving to do the best I can, both professionally and personally. I am excited to connect with inspiring people, collaborate on challenging projects, and continue growing in all aspects of my life.
+
+If you have any questions or want to know more, just ask! I'm here to help.
+
+#### Contact me
+
+<a href="https://www.linkedin.com/in/bernardo-esberard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.nuget.org/profiles/bernardbr" target="_blank"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/692925/bernardo-esb%c3%a9rard" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 ## My stack
 
@@ -69,27 +87,3 @@
 ![azuredatastudio](https://img.shields.io/badge/azure-data-studio?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![delphi-rad](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
-## Follow me
-
-<div align="right">
-<br>
-<a href="https://www.linkedin.com/in/bernardo-esberard" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.nuget.org/profiles/bernardbr" target="_blank"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/692925/bernardo-esb%c3%a9rard" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<br>
-
-
-<!--
-**bernardbr/bernardbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @alterdata
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
