@@ -12,7 +12,7 @@
 
 👋 Hello! I am a software developer passionate about what I do. Additionally, I love sharing the knowledge I have gained over the years, I'm an avid gamer, and last but not least, I am passionate about my family. Let me tell you a little more about myself:
 
-🔭 Currently, I am excited to be part of the @Paybyrd team, where I contribute to developing innovative payment solutions.
+🔭 Currently, I am excited to be part of the [@Paybyrd](https://github.com/paybyrd) team, where I contribute to developing innovative payment solutions.
 
 🌱 As a father, son, and husband, my family is central to my life. They are my daily motivation and my haven. Sharing moments with them is a true treasure.
 
