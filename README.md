@@ -6,9 +6,9 @@
 
 </div>
 
-![My GitHub status](https://github-readme-stats.vercel.app/api?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
+![My GitHub status](https://github-readme-stats-fast.vercel.app/api?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bernardbr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&layout=compact)
 
 👋 Hello! I am a software developer passionate about what I do. Additionally, I love sharing the knowledge I have gained over the years, I'm an avid gamer, and last but not least, I am passionate about my family. Let me tell you a little more about myself:
 
